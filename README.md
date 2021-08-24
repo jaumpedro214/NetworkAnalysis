@@ -4,7 +4,7 @@ _Authors: João Pedro, Pedro Barbalho_
 This repository contains a few exercices on Network Analysis with academic purposes.
 
 ## Brazilian Air Mesh
-
+<a href="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/Brazilian%20Flight%20Data.png"><img src="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/Brazilian%20Flight%20Data.png" alt="Brazilian-Flight-Data" border="0"></a>
 The files in :open_file_folder: **MalhaAereaBrasileira** contains exercices relative to the build of a graph dataset with data from brazillian flights.
 
 The dataset is built with public domain data from ANAC about brazilian flights from 2001 up to 2020.
@@ -12,6 +12,7 @@ The dataset is built with public domain data from ANAC about brazilian flights f
 A more detailed description is in the Jupyter Notebook's files.
 
 ## Chair Wikipedia Network
+<a href="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/ChairNetwork.png"><img src="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/ChairNetwork.png" alt="Chair-Network" border="0"></a>
 
 The files in :open_file_folder: **ChairWikipediaNetwork** contains the build of a directed graph dataset with data from Wikipedia Pages.
 The dataset is built based on the citations of each wikipedia's page, were a edge between **A** and **B** means that the page **A** references the page **B** on its article.
