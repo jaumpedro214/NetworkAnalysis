@@ -19,5 +19,12 @@ The dataset is built based on the citations of each wikipedia's page, were a edg
 
 In the notebook's example, we're building a network starting at the Chair wikipedia page.
  
-You can find a more detailed description is in the Jupyter Notebook's files and or in this Medium Article, where we also describe a few analysis on the network.
+You can find a more detailed description is in the Jupyter Notebook's files and or in this [Medium Article](https://joaopedro214.medium.com/chair-network-analyzing-a-wikipedia-references-network-ffbd07f4f43b), where we also describe a few analysis on the network.
 
+## Cats & Dogs Twitter network
+<a href="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/Cats%20%26%20Dogs%20Img.png"><img src="https://github.com/jaumpedro214/NetworkAnalysis/blob/main/imgs/Cats%20%26%20Dogs%20Img.png" alt="Brazilian-Flight-Data" border="0"></a>
+
+The files :open_file_folder: **CatsAndDogs** contains the build of a directed graph dataset with data from posts on social media Twitter. The dataset is built based on “retweeting”, where an edge between A and B means that A retweets post B.
+In the notebook’s example, we’re building a network based on the terms “dogs” and “cats”.
+
+You can find a more detailed in the Jupyter Notebook’s file or in this Medium article, where we also describe a few analyses on the network
