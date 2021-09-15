@@ -27,4 +27,4 @@ You can find a more detailed description is in the Jupyter Notebook's files and 
 The files :open_file_folder: **CatsAndDogs** contains the build of a directed graph dataset with data from posts on social media Twitter. The dataset is built based on “retweeting”, where an edge between A and B means that A retweets post B.
 In the notebook’s example, we’re building a network based on the terms “dogs” and “cats”.
 
-You can find a more detailed in the Jupyter Notebook’s file or in this Medium article, where we also describe a few analyses on the network
+You can find a more detailed in the Jupyter Notebook’s file or in this [Medium article](https://joaopedro214.medium.com/cats-dogs-on-twitter-a-perspective-from-network-analysis-7d19ca7888cf), where we also describe a few analyses on the network
